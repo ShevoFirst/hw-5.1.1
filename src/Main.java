@@ -37,7 +37,7 @@ public class Main {
         }
         System.out.println();
         System.out.println();
-        //Задание 8,9.
+        //Задание 8,9..
         int salary = 29000;
         int total = 0;
         for (int i = 1; i<=12; i++){
